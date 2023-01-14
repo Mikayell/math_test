@@ -1,3 +1,0 @@
-/home/bulo/mytest/math_test/myMathLib/build/CMakeFiles/rebuild_cache.dir
-/home/bulo/mytest/math_test/myMathLib/build/CMakeFiles/edit_cache.dir
-/home/bulo/mytest/math_test/myMathLib/build/CMakeFiles/runTests.dir
