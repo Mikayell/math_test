@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bulo/mytest/math_test/myMathLib/myLib.cpp
+myLib.h
+/home/bulo/mytest/math_test/myMathLib/myLib.h
+
+/home/bulo/mytest/math_test/myMathLib/myLib.h
+
+/home/bulo/mytest/math_test/myMathLib/myLibTest.cpp
+gtest/gtest.h
+-
+myLib.cpp
+/home/bulo/mytest/math_test/myMathLib/myLib.cpp
+
